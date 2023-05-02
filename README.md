@@ -7,3 +7,8 @@ A descrição de cada documento:
 2)Projeto mvp.docx  = descrição da demanda do projeto e estrutura do projeto.
 3)projeto_mvp.pdf = versão em pdf do documento Projeto mvp.docx.
 4)README.md = Apresentação de informações no GIT.
+
+## execução
+1)Baixar o arquivo "Apresentacao-mvp-sprint-1-2023.mp4" no desktop e/ou notebook.
+
+2)Abrir e executar o arquivo em um programa que reproduz videos com extensão mp4.
